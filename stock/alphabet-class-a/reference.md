@@ -1,0 +1,1 @@
+- headquarter.png : https://institute.careerguide.com/things-to-know-about-alphabet-inc/
