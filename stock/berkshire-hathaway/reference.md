@@ -1,0 +1,2 @@
+- charlie-munger.png : https://www.reuters.com/business/obituary-charlie-munger-oracle-pasadena-who-was-buffetts-second-in-command-2023-11-28/
+- warren-buffett.png : CNBC Television https://www.youtube.com/watch?v=JvEas_zZ4fM
