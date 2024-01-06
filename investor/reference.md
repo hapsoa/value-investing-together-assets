@@ -1,1 +1,2 @@
 - peter-lynch.png : CNBC
+- books : kyobo
