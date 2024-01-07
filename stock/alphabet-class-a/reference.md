@@ -1,2 +1,2 @@
-- headquarter.png : https://institute.careerguide.com/things-to-know-about-alphabet-inc/
+- headquarter.png : Jimmy Baikovicius / flickr https://www.flickr.com/photos/jikatu/22143653260
 - sundar-pichai.jpeg : Google https://blog.google/authors/sundar-pichai/, Asia Society https://asiasociety.org/asia-game-changer-awards/sundar-pichai
