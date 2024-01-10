@@ -1,2 +1,3 @@
 - lotte-outlet.webp : 미래에셋맵스리츠
 - majestar-city-tower1.png : 네이버지도
+- portfolio : 미래에셋맵스리츠 공식 IR Book
