@@ -1,0 +1,1 @@
+- nifty50-chart.png : 구글
