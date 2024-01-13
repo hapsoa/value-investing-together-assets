@@ -1,0 +1,1 @@
+- gpu.png : GeForce RTX 40 시리즈 nvidia.com 공식홈페이지 (https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/)

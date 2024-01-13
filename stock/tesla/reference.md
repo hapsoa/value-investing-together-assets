@@ -1,0 +1,1 @@
+- optimus.png : 테슬라 유튜브에서도 해당 이미지를 캡처할 수 있음 https://www.youtube.com/watch?v=cpraXaw7dyc
