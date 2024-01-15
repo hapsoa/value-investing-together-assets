@@ -1,0 +1,1 @@
+- wired-connectivity: Broadcom https://www.broadcom.com/products/ethernet-connectivity

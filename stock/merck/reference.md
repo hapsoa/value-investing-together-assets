@@ -1,0 +1,1 @@
+- keytruda.png : Merck Sharp & Dohme Corp https://www.pharmaceutical-technology.com/news/merck-keytruda-china/?cf-view

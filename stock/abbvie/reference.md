@@ -1,0 +1,1 @@
+- humira.png : Abbvie라고 출처를 밝히는 듯. https://www.fiercepharma.com/marketing/biomarins-commercial-chief-jeffrey-ajer-hits-exit-new-ceo-looks-boost-launch-voxzogo
