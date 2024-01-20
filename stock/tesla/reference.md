@@ -1,1 +1,8 @@
 - optimus.png : 테슬라 유튜브에서도 해당 이미지를 캡처할 수 있음 https://www.youtube.com/watch?v=cpraXaw7dyc
+- nevada-gigafactory.png : 테슬라 공식 홈페이지
+- elon-musk : Trevor cokley / Wikipedia
+- model3.png : Tesla https://www.tesla.com/ownersmanual/model3/ko_kr/
+- supercharger.png : Per-Olof Forsberg / flickr CCL https://www.flickr.com/photos/perolofforsberg/35877424333
+- semi-truck.png : 테슬라 https://www.tesla.com/semi
+- cybertruck.avif : https://www.tesla.com/ko_kr/cybertruck
+- solar-panel.png : 테슬라 https://www.solarreviews.com/blog/are-tesla-solar-panels-the-best-option
