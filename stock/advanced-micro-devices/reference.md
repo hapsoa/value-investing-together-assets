@@ -1,0 +1,1 @@
+- ryzen.png : tradeinn https://www.tradeinn.com/techinn/ko/amd-cpu-am4-ryzen-7-3800x/138014592/p

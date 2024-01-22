@@ -1,0 +1,1 @@
+- 5g.png : t-mobile.com 공홈 https://www.t-mobile.com/news/press/americas-first-nationwide-5g-network

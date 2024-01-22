@@ -1,0 +1,1 @@
+- tylenol.png : Korea Biomedical Review https://www.koreabiomed.com/news/articleView.html?idxno=20287
