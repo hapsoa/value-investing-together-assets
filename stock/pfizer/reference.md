@@ -1,0 +1,8 @@
+- lipitor.webp : simple online pharmacy https://www.simpleonlinepharmacy.co.uk/online-doctor/high-cholesterol/lipitor/
+- viagra.jpeg : CCL https://denstoredanske.lex.dk/Viagra%C2%AE
+- eliquis.png : Fierce Pharma
+- zoloft.png : IndiaMart https://m.indiamart.com/proddetail/zoloft-sertraline-50mg-tablets-pfizer-2851050366662.html
+- prevnar.png : IndiaMart https://m.indiamart.com/proddetail/pfizer-prevnar-13-injection-2852050784230.html
+- comirnaty.png : Benjamin Girette/Bloomberg https://www.aljazeera.com/economy/2021/4/30/pfizer-begins-to-export-us-made-covid-shots-report
+- lyrica.png : Acdx https://www.pharmaceutical-technology.com/comment/future-of-pfizers-lyrica/?cf-view
+- ibrance.png : Fierce Pharma https://www.fiercepharma.com/pharma/asco-pfizers-ibrance-fails-extend-lives-newly-diagnosed-breast-cancer-will-doctors-switch
