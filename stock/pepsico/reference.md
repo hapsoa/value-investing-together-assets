@@ -1,0 +1,1 @@
+- pepsi.png : PepsiCo https://www.google.com/search?newwindow=1&sca_esv=600316937&rlz=1C5CHFA_enKR1083KR1083&sxsrf=ACQVn0-7-WBAhH_ULO5mYtREMh9YqcLxHg:1705896325525&q=pepsi&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjjroaEj_CDAxWZa_UHHUmQALcQ0pQJegQIDhAB&biw=1920&bih=934&dpr=1#imgrc=a3BZ5hbaq-2OoM
