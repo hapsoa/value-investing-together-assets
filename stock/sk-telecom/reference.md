@@ -1,3 +1,4 @@
 - nugu.png : nugu.co.kr 공홈
 - ifland.png : ifland 공식유튜브 https://www.youtube.com/watch?v=XrQTGCWvWlw
 - ceo-yuyeongsang.png : SK텔레콤 https://news.sktelecom.com/176472
+- headquarters.png : 파이낸셜뉴스 https://www.fnnews.com/news/200412161214424059
