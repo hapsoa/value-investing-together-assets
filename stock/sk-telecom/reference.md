@@ -1,0 +1,2 @@
+- nugu.png : nugu.co.kr 공홈
+- ifland.png : ifland 공식유튜브 https://www.youtube.com/watch?v=XrQTGCWvWlw
