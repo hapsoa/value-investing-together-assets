@@ -1,0 +1,1 @@
+- headquarters.png : Consultancy.uk https://www.consultancy.uk/news/2968/accenture-ireland-moves-into-new-hanover-quay-office
