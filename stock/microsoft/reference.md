@@ -1,2 +1,3 @@
 - headquarters.png : Microsoft Image
 - satya-nadella.jpeg : Brian Smale and Microsoft CCL https://en.wikipedia.org/wiki/Satya_Nadella#/media/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg
+- xbox.png : xbox.com official

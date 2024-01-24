@@ -1,2 +1,3 @@
 - headquarters.png : https://www.seattletimes.com/business/apple-delays-and-modifies-its-return-to-office-plans/
 - 제품 : Apple
+- tim-cook.jpg : Apple
