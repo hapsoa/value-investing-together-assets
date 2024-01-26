@@ -1,3 +1,4 @@
 - astro.png : official https://www.aboutamazon.com/news/devices/amazon-astro-2022
 - andy-jassy.jpeg : official https://ir.aboutamazon.com/officers-and-directors/person-details/default.aspx?ItemId=7601ef7b-4732-44e2-84ef-2cccb54ac11a
 - robot.png : The Guardian https://www.theguardian.com/technology/2023/oct/18/amazon-robot-warehouses-digit-workers
+- lina-khan.webp : FTC https://www.ftc.gov/about-ftc/commissioners-staff/lina-m-khan
