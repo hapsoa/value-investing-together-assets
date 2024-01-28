@@ -2,3 +2,5 @@
 - baytown-facility.png : ExxonMobil "정유 시설" https://corporate.exxonmobil.com/locations/united-states
 - hdpe.jpeg : ExxonMobil "화학 제품" https://www.exxonmobilchemical.com/en/products/polyethylene/hdpe
 - engine-oil.jpeg : Mobil https://www.mobil.co.kr/ko-kr/mobil-brands/products/mobil-1-esp-lv-0w-30
+- darren-woods.png : ExxonMobil official https://corporate.exxonmobil.com/corporate-governance/board-of-directors/darren-woods
+- headquarters.png : ExxonMobil official https://corporate.exxonmobil.com/locations/united-states/houston-campus
