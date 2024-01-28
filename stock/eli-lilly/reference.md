@@ -1,1 +1,10 @@
 - humalog.png : https://www.humalog.com/hcp (공식홈페이지)
+- cialis.png : Murrays Chemist (약 온라인 판매) https://murrayschemist.co.uk/product/cialis-6/
+- cymbalta.png : Fierce Pharma https://www.fiercepharma.com/pharma/mercks-keytruda-extends-life-kidney-cancer-after-surgery-bristol-myers-opdivo-fails-again
+- alimta.png : BioSpectrum Asia https://www.biospectrumasia.com/news/55/21608/lotus-acquires-alimta-in-taiwan-from-eli-lilly-for-62-m.html
+- forteo.png : IndiaMART https://m.indiamart.com/proddetail/forteo-injection-teriparatide-7256462248.html
+- zyprexa.png : McKesson https://mms.mckesson.com/product/689220/Eli-Lilly-00002759701
+- trulicity.png : Eli Lilly https://investor.lilly.com/news-releases/news-release-details/lillys-trulicitytm-dulaglutide-now-available-us-pharmacies
+- prazac.jpeg : Nahdi https://www.nahdionline.com/en/prozac-20-mg-capsule-28pcs
+- david-ricks.png : Eli Lilly https://www.fiercepharma.com/pharma/eli-lilly-ceo-racks-214m-pay-2022-amid-mounjaro-approval-alzheimers-trial-success
+- headquarters.png : Indianapolis Monthly https://www.indianapolismonthly.com/lifestyle/health/lilly-eyes-2021-for-return-to-full-strength/
