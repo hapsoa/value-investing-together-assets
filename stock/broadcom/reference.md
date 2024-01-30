@@ -1,1 +1,4 @@
 - wired-connectivity: Broadcom https://www.broadcom.com/products/ethernet-connectivity
+- product images : broadcom official
+- headquarters.jpeg : PRP REAL ESTATE INVESTMENT MANAGEMENT
+- hock-tan.png : broadcom official https://www.broadcom.com/company/about-us/executives/hock-e-tan
