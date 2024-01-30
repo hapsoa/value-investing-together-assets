@@ -1,1 +1,8 @@
 - tylenol.png : Korea Biomedical Review https://www.koreabiomed.com/news/articleView.html?idxno=20287
+- motrin.jpeg : Zoro (Onlien Market) https://www.zoro.com/johnson-johnson-medication-motrin-caplets-pk100-048101/i/G6206842/
+- zyrtec.png : Save Rite Medical (Onlien Market) https://www.saveritemedical.com/products/johnson-johnson-zyrtec-r-allergy-tablets-10mg-5-count
+- remicade.png : CBS News https://www.cbsnews.com/news/jjs-dilemma-marketing-new-drugs-without-cannibalizing-its-lead-product/
+- johnsons.png : Johnson's Baby https://www.johnsonsbaby.com/baby-products/johnsons-head-to-toe-baby-wash
+- neutrogena.png : Neutrogena https://www.neutrogena.co.kr/body/norwegian-formula/cica-emulsion
+- listerine.png : Listerine https://www.listerine.com/mouthwash/listerine-ultraclean/listerine-ultraclean-cool-mint-antiseptic-mouthwash
+- joaquin-duato.png : Johnson and Johnson https://www.jnj.com/joaquin-duato

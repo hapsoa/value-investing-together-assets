@@ -1,1 +1,10 @@
 - febreze.png : 페브리즈 공홈 https://www.febreze.com/en-us
+- downy.png : Gorhams (market) https://gorhams.bm/p/downy-april-fresh-scent-fabric-softener-liquid-037000355106
+- tide.png : eBay https://www.ebay.com/itm/204281019925
+- pampers.png : P&G https://www.koreatimes.co.kr/www/tech/2024/01/129_223249.html
+- oral-b.png : Oral-B official
+- olay.png : 11번가 (11st) https://www.11st.co.kr/products/5808552453
+- head-shoulders.png : amazon https://www.amazon.com/Shoulders-Anti-Dandruff-Classic-Clean-Shampoo/dp/B0071001XI
+- gillette.png : Gillette official https://www.gillettearabia.com/en/products
+- headquarters.jpeg : Tysto / Wikimedia https://commons.wikimedia.org/wiki/File:Cincinnati-procter-and-gamble-headquarters.jpg
+- jon-moeller.png : P&G https://www.cnbc.com/2021/07/29/procter-gamble-names-jon-moeller-as-its-new-ceo-replacing-david-taylor-effective-november.html
