@@ -1,1 +1,6 @@
-oil.png : Chevron https://www.chevron.com/what-we-do/energy/oil-and-natural-gas
+- oil.png : Chevron https://www.chevron.com/what-we-do/energy/oil-and-natural-gas
+- natural-gas.png : Chevron https://israel.chevron.com/en/our-businesses/natural-gas
+- gasolline.png : Chevron https://www.chevronwithtechron.com/en_us/home/renewable-diesel-blend/b2b-business-solution.html
+- plastic.png : ChatGPT였던 걸로 기억함
+- additive.png : Chevron https://www.chevronlubricants.com/en_us/home/products/techron-complete-fuel-system-cleaner.html
+- mike-worth.png : Chevron https://www.chevron.com/who-we-are/leadership/michael-wirth
