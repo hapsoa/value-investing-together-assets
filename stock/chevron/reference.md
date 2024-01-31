@@ -4,3 +4,4 @@
 - plastic.png : ChatGPT였던 걸로 기억함
 - additive.png : Chevron https://www.chevronlubricants.com/en_us/home/products/techron-complete-fuel-system-cleaner.html
 - mike-worth.png : Chevron https://www.chevron.com/who-we-are/leadership/michael-wirth
+- reservoirs.png : Chevron https://www.chevron.com/who-we-are/history

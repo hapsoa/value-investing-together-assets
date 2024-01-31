@@ -1,1 +1,8 @@
 - humira.png : Abbvie라고 출처를 밝히는 듯. https://www.fiercepharma.com/marketing/biomarins-commercial-chief-jeffrey-ajer-hits-exit-new-ceo-looks-boost-launch-voxzogo
+- imbruvica.png : https://www.imbruvica.com/cll/side-effects
+- skyrizi.png : BioPlus Resources https://blog.bioplusrx.com/resources/skyrizi-risankizumab-rzaa-now-available-from-bioplus-specialty-pharmacy-for-moderate-to-severe-plaque-psoriasis
+- mavyret.png : eMPR.com https://www.empr.com/drug/mavyret/
+- rinvoq.png : RINVOQ official https://www.rinvoqhcp.com/rheumatoid-arthritis/dosing-and-moa
+- venclexta.png : AbbVie https://www.fiercepharma.com/pharma/abbvie-roche-drive-venclexta-toward-3b-rituxan-combo-nod-cll
+- duopa.png : MultiVu https://www.multivu.com/players/English/7132951-abbvie-fda-approval-duopa/
+- vraylar.webp : AbbVie https://www.clinicaltrialsarena.com/projects/vraylar-cariprazine-for-the-treatment-of-bipolar-disorder-and-schizophrenia/?cf-view
