@@ -1,1 +1,9 @@
-- wood-board.jpeg : Home Depot
+- wood-board.jpeg : Home Depot official
+- drill.png : Home Depot official
+- light.png : Home Depot official
+- kitchen-cabinets.png : Home Depot official
+- floor.avif : Home Depot official
+- plant.png : Home Depot official
+- paint.png : Home Depot official
+- ted-decker.png : Home Depot official https://corporate.homedepot.com/bio/ted-decker-chair-president-chief-executive-officer
+- store.jpg : Harrison Keely / Wikipedia CCL https://en.wikipedia.org/wiki/File:A_Home_Depot_store_in_Blairsville,_Ga.jpg
