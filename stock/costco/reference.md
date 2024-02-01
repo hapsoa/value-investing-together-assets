@@ -1,2 +1,7 @@
 - warehouse-store.png : 코스트코 양재점. 출처: https://www.costco.co.kr/store-finder/Yangjae
 - kirkland-signature.png : https://www.costco.com/kirkland-signature-variety-snack-box%2C-51-count.product.100784326.html
+- membership.png : costco official https://www.costco.com/business-membership---new-member.product.3165.html
+- hotdog.jpeg : bob walker / Wikimedia CCL https://commons.wikimedia.org/wiki/File:Hot_dog_at_costco_(9384083370).jpg
+- chicken.jpeg : kennejima / flickr CCL https://www.flickr.com/photos/kennejima/6132124112
+- ron-vachris : Costco https://investor.costco.com/governance/board-of-directors/person-details/default.aspx?ItemId=f0450829-b19b-4fc4-ac2e-a32ad9dc9234
+- warehouse-store.png Costco https://www.costco.co.kr/store-finder/Yangjae

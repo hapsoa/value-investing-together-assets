@@ -6,3 +6,5 @@
 - venclexta.png : AbbVie https://www.fiercepharma.com/pharma/abbvie-roche-drive-venclexta-toward-3b-rituxan-combo-nod-cll
 - duopa.png : MultiVu https://www.multivu.com/players/English/7132951-abbvie-fda-approval-duopa/
 - vraylar.webp : AbbVie https://www.clinicaltrialsarena.com/projects/vraylar-cariprazine-for-the-treatment-of-bipolar-disorder-and-schizophrenia/?cf-view
+- richard-gonzalez.png : AbbVie https://www.abbvie.com/who-we-are/our-leaders/richard-gonzalez.html
+- headquarters.png : AbbVie https://www.pharmaceutical-technology.com/news/abbvie-richter-neuropsychiatric-diseases/?cf-view
