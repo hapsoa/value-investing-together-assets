@@ -1,1 +1,2 @@
 - ryzen.png : tradeinn https://www.tradeinn.com/techinn/ko/amd-cpu-am4-ryzen-7-3800x/138014592/p
+- lisa-su.png : AMD official https://www.amd.com/ko/corporate/leadership/lisa-su/photo-gallery.html

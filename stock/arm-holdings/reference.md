@@ -1,0 +1,1 @@
+- arm-architecture.png : 사진: Cburnett / Wikipedia https://en.wikipedia.org/wiki/ARM_architecture_family#/media/File:ARMSoCBlockDiagram.svg
