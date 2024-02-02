@@ -1,2 +1,6 @@
 - ryzen.png : tradeinn https://www.tradeinn.com/techinn/ko/amd-cpu-am4-ryzen-7-3800x/138014592/p
 - lisa-su.png : AMD official https://www.amd.com/ko/corporate/leadership/lisa-su/photo-gallery.html
+- epyc.png : 반도체네트워크 https://www.seminet.co.kr/channel_micro.html?menu=content_sub&com_no=834&category=product&no=7545
+- radeon.png : AMD official https://www.amd.com/ko/graphics/radeon-rx-graphics-6000-series
+- motherboard-chipsets.png
+- embedded.png : AMD official https://www.amd.com/ko/products/embedded-industry-solutions
