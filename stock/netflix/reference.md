@@ -1,1 +1,5 @@
 - contents.avif : Netflix 공홈
+- recommendation-algorithm.webp : Sudeep Das https://www.slideshare.net/SudeepDasPhD/deeper-things-how-netflix-leverages-deep-learning-in-recommendations-and-search
+- multi-devices.png : Netflix https://about.netflix.com/en/news/let-the-games-begin-a-new-way-to-experience-entertainment-on-mobile
+- reed-hastings.png : CCL re:publica / Wikimedia https://en.wikipedia.org/wiki/Reed_Hastings#/media/File:Re_publica_2015_-_Tag_1_(17195424118).jpg
+- headquarters.jpeg : Coolcaesar / Wikimedia CCL https://en.wikipedia.org/wiki/Netflix,_Inc.#/media/File:101_Albright_Way.jpg
