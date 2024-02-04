@@ -1,1 +1,8 @@
 - xfinity-cable-tv.avif : xfinity 공홈 https://www.xfinity.com/learn/digital-cable-tv
+- xfinity-internet.avif : xfinity official https://www.xfinity.com/overview
+- xfinity-home.avif : xfinify official https://www.xfinity.com/learn/home-security/devices
+- xfinity-voice.webp : LocalCableDeals https://www.localcabledeals.com/xfinity/voice
+- xfinity-mobile.avif : xfinity official https://www.xfinity.com/overview
+- peacock.webp : ScreenNearYou https://www.screennearyou.com/news/jiocinema-expands-content-lineup-with-nbcuniversal-partnership/
+- brian-roberts.png : comcast https://corporate.comcast.com/news-information/leadership-overview/brian-l-roberts
+- headquarters.jpeg : Mredden / Wikimedia CCL https://commons.wikimedia.org/wiki/File:Comcastcenter_vertical.jpg
