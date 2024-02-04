@@ -1,0 +1,1 @@
+- galaxy.png : 삼성전자 official

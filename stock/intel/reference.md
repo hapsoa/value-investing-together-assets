@@ -1,1 +1,8 @@
-cpu-i7.png : Mouser Electronics https://www.mouser.kr/ProductDetail/Intel/CM8063701211600S-R0PK?qs=L4m7d03WznnCy23bMY4v5Q%3D%3D
+- cpu-i7.png : Mouser Electronics https://www.mouser.kr/ProductDetail/Intel/CM8063701211600S-R0PK?qs=L4m7d03WznnCy23bMY4v5Q%3D%3D
+- xeon.png : Mouser Electronics
+- pentium.png : Mouser Electronics
+- gpu-arc.png : Intel https://www.intel.co.kr/content/www/kr/ko/products/docs/discrete-gpus/arc/workstations/a-series/overview.html
+- optane-ssd.png : Intel https://www.intel.co.kr/content/www/kr/ko/products/details/memory-storage/consumer-ssds.html
+- fpga-agilex.png : Intel https://www.intel.co.kr/content/www/kr/ko/products/details/fpga/development-kits/agilex/i-series.html
+- ethernet-card.png : Intel https://www.intel.co.kr/content/www/kr/ko/products/details/ethernet.html
+- patrick-gelsinger.png : Intel https://www.intel.com/content/www/us/en/newsroom/biographies/biography-patrick-gelsinger.html#gs.3yq98k

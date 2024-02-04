@@ -4,3 +4,4 @@
 - webex.avif : Cisco https://www.cisco.com/c/ko_kr/solutions/collaboration/webex-call-message-meet.html
 - meraki.png : Cisco https://meraki.cisco.com/form/trial/
 - chuck-robbins.png : Cisco https://newsroom.cisco.com/c/r/newsroom/en/us/executives/robbins-chuck.html
+- headquarters.png : Travis Wise / flickr CCL https://www.flickr.com/photos/photographingtravis/15305891678
