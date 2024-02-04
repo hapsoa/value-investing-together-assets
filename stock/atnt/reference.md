@@ -1,0 +1,1 @@
+- store.png : Michael Rivera / Wikimedia CCL https://commons.wikimedia.org/wiki/File:AT%26T_Store,_Griffin.JPG
