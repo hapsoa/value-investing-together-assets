@@ -1,1 +1,1 @@
-- snapdragon.png : Raimond Spekking / Wikimedia
+- snapdragon.png : Raimond Spekking / Wikimedia CCL https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%83%85%EB%93%9C%EB%9E%98%EA%B3%A4#/media/%ED%8C%8C%EC%9D%BC:LG_P710_Optimus_L7_II_-_Qualcomm_MSM8225_on_main_printed_circuit_board-5427.jpg

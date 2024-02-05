@@ -1,0 +1,1 @@
+- greasecutter.avif : official https://ko-kr.ecolab.com/offerings/kitchen-maintenance/greasecutter-plus

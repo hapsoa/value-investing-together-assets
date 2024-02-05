@@ -1,0 +1,1 @@
+- copper.png : official https://www.fcx.com/about/copper-at-a-glance

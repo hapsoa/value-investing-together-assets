@@ -1,0 +1,1 @@
+- mining-process.png : official https://www.newmont.com/about-us/about-mining/default.aspx
