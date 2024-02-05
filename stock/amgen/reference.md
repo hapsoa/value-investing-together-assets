@@ -1,1 +1,8 @@
 - epogen.jpeg : Amgen ESA https://www.amgenesas.com/epogen
+- enbrel.avif : https://www.americanpharmawholesale.com/store.php/AmericanPharmaWholesale/pd10421921/rx-itemenbrel-25mg05ml-sdv-4x05-by-amgen-usa
+- neulasta.jpeg : Amgen official https://www.amgen.com/newsroom/press-releases/2015/03/amgen-announces-launch-of-new-neulasta-pegfilgrastim-delivery-kit
+- prolia.png : McKesson https://mms.mckesson.com/product/729015/Amgen-Inc-55513071001
+- aranesp.png : Aranesp https://www.aranesp.com/professional/oncology
+- xgeva.png : PMLiVE https://www.pmlive.com/pharma_news/fda_clears_amgens_xgeva_for_rare_bone_condition_483120
+- robert-bradway.webp : Amgen https://www.amgen.com/about/leadership/senior-management/robert-a-bradway
+- headquarters.jpeg : Coolcaesar / Wikimedia https://ko.wikipedia.org/wiki/%EC%95%94%EC%A0%A0#/media/%ED%8C%8C%EC%9D%BC:Amgenheadquarters.jpg
