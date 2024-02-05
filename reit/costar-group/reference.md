@@ -1,0 +1,1 @@
+- office.png : official https://www.costar.com/article/491494980/costar-completes-130-million-acquisition-of-research-hub-in-richmond-virginia

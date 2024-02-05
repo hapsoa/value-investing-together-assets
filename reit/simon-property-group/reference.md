@@ -1,0 +1,1 @@
+- albertville-premium-outlets.png : official https://www.simon.com/mall

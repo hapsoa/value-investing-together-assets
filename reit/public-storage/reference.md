@@ -1,0 +1,1 @@
+- storage-facility.png : official https://www.publicstorage.com/self-storage

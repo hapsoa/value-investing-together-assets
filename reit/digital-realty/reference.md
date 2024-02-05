@@ -1,0 +1,1 @@
+- data-center.jpg : official https://www.datacenterdynamics.com/en/news/digital-realty-announces-350-million-note-offering/
