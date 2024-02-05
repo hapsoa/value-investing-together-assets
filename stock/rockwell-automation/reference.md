@@ -1,0 +1,1 @@
+- industrial-automation-control.webp : official https://www.rockwellautomation.com/en-us/capabilities/industrial-automation-control.html
