@@ -1,0 +1,1 @@
+- snapdragon.png : Raimond Spekking / Wikimedia
