@@ -1,1 +1,1 @@
-- sovaldi : official https://www.nytimes.com/2015/05/20/business/high-cost-of-hepatitis-c-drug-prompts-a-call-to-void-its-patents.html
+- sovaldi.webp : official https://www.nytimes.com/2015/05/20/business/high-cost-of-hepatitis-c-drug-prompts-a-call-to-void-its-patents.html

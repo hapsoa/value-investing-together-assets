@@ -1,0 +1,8 @@
+- post-it.avif : official https://www.post-it.com/3M/en_US/p/d/cbgbjrus2784/
+- scotch-tape.avif : Scotch Brand https://www.scotchbrand.com/3M/en_US/p/d/cbgnhw011097/
+- stethoscope.webp : Littmann Stethoscopes https://www.littmann.com/3M/en_US/littmann-stethoscopes/advantages/core-digital-stethoscope/
+- scotch-brite.avif : 3M https://multimedia.3m.com/mws/media/1252648J/scotch-brite-heavy-duty-scouring-pad-h-86-6-in-x-9-in.jpg?width=506
+- safety-glasses.avif : 3M official
+- command-hook.avif : Command official
+- mike-roman.png : 3M official https://www.3m.com/3M/en_US/company-us/about-3m/ceo/
+- headquarters.jpeg : Acroterion / Wikimedia CCL https://en.wikipedia.org/wiki/3M#/media/File:3-M_Building_Maplewood_MN1.jpg
