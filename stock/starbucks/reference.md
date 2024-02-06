@@ -1,1 +1,2 @@
 - headquarters.jpg : SounderBruce / flickr CCL https://www.flickr.com/photos/sounderbruce/25199005165/
+- americano.jpeg : official https://www.starbucks.co.kr/menu/drink_view.do?product_cd=94

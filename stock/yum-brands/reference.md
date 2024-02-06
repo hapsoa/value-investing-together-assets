@@ -1,0 +1,1 @@
+- kfc-chicken.png : KFC https://www.kfckorea.com/delivery/detail/N/2175932

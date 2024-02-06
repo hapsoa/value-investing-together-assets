@@ -1,0 +1,1 @@
+- originals-salted-egg-double.png : Burger King https://www.burgerking.co.kr/#/menuDetail/K100002/%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%EC%8A%A4/6600462

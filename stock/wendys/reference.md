@@ -1,0 +1,1 @@
+- daves-single.png : Wendys https://order.wendys.com/category/100/hamburgers?lang=en_US

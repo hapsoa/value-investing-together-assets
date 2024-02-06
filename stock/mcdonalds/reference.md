@@ -1,1 +1,7 @@
 - big-mac.png : https://www.mcdonalds.co.kr/kor/menu/detail.do
+- happy-meal.jpeg : official https://www.mcdonalds.com/us/en-us/meal/hamburger-happy-meal.html
+- mcdrive.png : official https://www.youtube.com/watch?v=GdOgPh6zlZ0
+- mc-cafe.png : official https://www.mcdonalds.com/us/en-us/mccafe.html
+- mcnuggets.png : official http://www.mcdonalds.co.kr/uploadFolder/product/prov_201312041117509620.png
+- potatoes.png : official https://www.mcdonalds.co.kr/kor/menu/detail.do
+- chris-kempczinski.png : Wikimedia CCL https://en.wikipedia.org/wiki/Chris_Kempczinski#/media/File:Chris_Kempczinski,_McDonald%E2%80%99s_President_and_CEO.jpg
