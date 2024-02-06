@@ -1,2 +1,8 @@
 - headquarters.jpg : SounderBruce / flickr CCL https://www.flickr.com/photos/sounderbruce/25199005165/
 - americano.jpeg : official https://www.starbucks.co.kr/menu/drink_view.do?product_cd=94
+- cake.jpeg : official https://www.starbucks.co.kr/menu/food_view.do?product_cd=9300000003393
+- sandwich.jpeg : official https://www.starbucks.co.kr/menu/food_view.do?product_cd=9300000000689
+- space.jpg : official https://www.starbucks.co.kr/store/store_map.do
+- starbucks-reserve.png : official https://www.starbucksreserve.com/en-us/menus
+- mobile-app.webp : official https://stories.starbucks.com/stories/2020/a-how-to-guide-for-digital-ordering-at-starbucks/
+- laxman-narasimhan.webp : official https://stories.starbucks.com/leadership/laxman-narasimhan/
