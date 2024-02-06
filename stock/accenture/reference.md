@@ -1,1 +1,2 @@
 - headquarters.png : Consultancy.uk https://www.consultancy.uk/news/2968/accenture-ireland-moves-into-new-hanover-quay-office
+- julie-sweet.png : official https://www.accenture.com/us-en/about/leadership/julie-sweet
