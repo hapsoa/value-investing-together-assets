@@ -1,0 +1,1 @@
+- suede.avif : puma official https://kr.puma.com/kr/ko/%EC%BB%AC%EB%A0%89%EC%85%98/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC/%EC%8A%A4%EC%9B%A8%EC%9D%B4%EB%93%9C
