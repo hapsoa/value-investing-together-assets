@@ -1,0 +1,1 @@
+- onsite-solar.png : official https://www.nexteraenergyresources.com/products-solutions/reduce.html

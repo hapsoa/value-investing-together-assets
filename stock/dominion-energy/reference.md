@@ -1,0 +1,1 @@
+- fixing-pole.png : official https://www.youtube.com/watch?v=YaG9sBlGI8w
