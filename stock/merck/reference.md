@@ -5,3 +5,4 @@
 - simponi.png : https://infusiondepot.com/product/simponi-50mg-0-5ml-pre-filled-syringe-non-english/
 - vytorin.png : Law.com https://www.law.com/njlawjournal/2019/09/13/third-circuit-revives-opt-out-securities-claims-against-merck/?slreturn=20240106152903
 - robert-davis.webp : Merck https://www.merck.com/leadership/robert-m-davis/
+- headquarters.png : CCL https://en.wikipedia.org/wiki/Merck_%26_Co.#/media/File:Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg
