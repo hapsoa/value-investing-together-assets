@@ -1,1 +1,7 @@
 - sales-cloud.png : salesforce.com official
+- marketing-cloud.png : official
+- salesforce-platform.png : official https://www.salesforce.com/uk/products/platform/lightning/
+- service-cloud.png : official
+- commerce-cloud.png : official
+- einsteinai.jpeg : official https://admin.salesforce.com/blog/2020/learn-build-and-predict-with-einstein-ai
+- marc-benioff.jpeg : Salesforce / flickr CCL https://www.flickr.com/photos/salesforce/52304269299/
