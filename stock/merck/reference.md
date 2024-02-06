@@ -1,1 +1,7 @@
 - keytruda.png : Merck Sharp & Dohme Corp https://www.pharmaceutical-technology.com/news/merck-keytruda-china/?cf-view
+- gardasil.png : Fierce Pharma https://www.fiercepharma.com/vaccines/new-phase-3-shows-efficacy-merck-s-gardasil-9-can-last-6-years
+- januvia.png : https://www.vezeeta.com/en-eg/pharmacy/januvia-100-mg-28-f-c-tablet
+- zetia.jpg : Vinmec https://www.vinmec.com/en/pharmaceutical-information/use-medicines-safely/uses-of-the-drug-zetia/
+- simponi.png : https://infusiondepot.com/product/simponi-50mg-0-5ml-pre-filled-syringe-non-english/
+- vytorin.png : Law.com https://www.law.com/njlawjournal/2019/09/13/third-circuit-revives-opt-out-securities-claims-against-merck/?slreturn=20240106152903
+- robert-davis.webp : Merck https://www.merck.com/leadership/robert-m-davis/

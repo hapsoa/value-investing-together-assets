@@ -1,0 +1,1 @@
+- gleevec.webp : BioSpectrum Asia https://www.biospectrumasia.com/analysis/25/2241/all-you-need-to-know-about-glivec.html
