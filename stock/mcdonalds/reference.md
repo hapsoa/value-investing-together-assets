@@ -5,3 +5,4 @@
 - mcnuggets.png : official http://www.mcdonalds.co.kr/uploadFolder/product/prov_201312041117509620.png
 - potatoes.png : official https://www.mcdonalds.co.kr/kor/menu/detail.do
 - chris-kempczinski.png : Wikimedia CCL https://en.wikipedia.org/wiki/Chris_Kempczinski#/media/File:Chris_Kempczinski,_McDonald%E2%80%99s_President_and_CEO.jpg
+- headquarters.png : Justin Schmidt/CoStar https://www.costar.com/article/65331938/mcdonalds-expands-chicago-headquarters-making-room-for-innovation-center
