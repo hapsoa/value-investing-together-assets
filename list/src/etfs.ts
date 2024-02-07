@@ -59,9 +59,26 @@ export const etfs: AssetListItem[] = [
     id: "xlre",
     logo: "statestreet.png",
     name: "XLRE",
-    desc: "미국 미디어와 통신 관련주",
+    desc: "부동산 관련주",
   },
-
+  {
+    id: "xlb",
+    logo: "statestreet.png",
+    name: "XLB",
+    desc: "미국 원자재 관련주",
+  },
+  {
+    id: "xlu",
+    logo: "statestreet.png",
+    name: "XLU",
+    desc: "미국 유틸리티 관련주",
+  },
+  {
+    id: "xli",
+    logo: "statestreet.png",
+    name: "XLI",
+    desc: "미국 산업재 관련주",
+  },
   {
     id: "aiq",
     logo: "globalx.png",
@@ -73,5 +90,29 @@ export const etfs: AssetListItem[] = [
     logo: "sinhan.png",
     name: "SOL 미국S&P500ESG",
     desc: "ESG 관련주",
+  },
+  {
+    id: "tiger-india-nifty50",
+    logo: "tiger.png",
+    name: "TIGER 인도니프티50",
+    desc: "인도 50대 대기업",
+  },
+  {
+    id: "kbstar-snp500",
+    logo: "kbstar.png",
+    name: "KBSTAR 미국S&P500",
+    desc: "미국 500대 대기업",
+  },
+  {
+    id: "kbstar-nasdaq100",
+    logo: "kbstar.png",
+    name: "KBSTAR 미국나스닥100",
+    desc: "미국 100대 대기업",
+  },
+  {
+    id: "sol-dow-jones-us-dividend",
+    logo: "sinhan.png",
+    name: "SOL 미국배당다우존스",
+    desc: "미국 배당성장주",
   },
 ];

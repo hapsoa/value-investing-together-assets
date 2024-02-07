@@ -14,8 +14,8 @@ export const stocks: AssetListItem[] = [
     desc: "IT 대기업",
   },
   {
-    id: "mircosoft",
-    logo: "mircosoft.svg",
+    id: "microsoft",
+    logo: "microsoft.svg",
     name: "마이크로소프트 (Microsoft)",
     desc: "IT 대기업",
   },
