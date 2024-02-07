@@ -8,7 +8,7 @@ export enum AssetType {
 export interface AssetListItem {
   id: string;
   // url: string;
-  // type: AssetType;
+  type?: AssetType;
   name: string;
   desc: string;
   logo?: string;
