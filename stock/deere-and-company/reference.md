@@ -1,0 +1,1 @@
+- tractor.avif : official https://www.deere.com/en/tractors/row-crop-tractors/row-crop-8-family/8r-410-tractor/

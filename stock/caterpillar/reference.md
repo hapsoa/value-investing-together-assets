@@ -1,0 +1,1 @@
+- truck.png : official https://www.caterpillar.com/en/news/caterpillarNews/2021/together-for-the-long-haul.html
