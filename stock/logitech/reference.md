@@ -1,0 +1,3 @@
+- products : official
+- hanneke-faber.png : official https://www.logitech.com/ko-kr/about/leadership/hanneke-faber.html
+- headquarters.png : Antonio Cunei / Wikimedia CCL https://en.wikipedia.org/wiki/Logitech#/media/File:Logitech_building_in_Lausanne_-_20200721_144917.jpg

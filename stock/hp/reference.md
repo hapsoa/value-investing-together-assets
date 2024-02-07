@@ -1,0 +1,1 @@
+- hp975-keyboard.avif : official https://www.hp.com/kr-ko/shop/hp-975-dual-mode-wireless-keyboard-3z726aa.html
