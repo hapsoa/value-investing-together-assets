@@ -3,3 +3,4 @@
 - robot.png : The Guardian https://www.theguardian.com/technology/2023/oct/18/amazon-robot-warehouses-digit-workers
 - lina-khan.webp : FTC https://www.ftc.gov/about-ftc/commissioners-staff/lina-m-khan
 - prime-video.png: Prime Video official
+- amazon-logistics.png : CCL
