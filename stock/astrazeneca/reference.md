@@ -1,0 +1,1 @@
+- tagrisso.jpeg : Evaluate Pharma https://www.evaluate.com/vantage/articles/events/conferences/asco-2020-tagrisso-shows-what-early-targeting-can-do
