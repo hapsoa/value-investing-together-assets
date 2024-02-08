@@ -86,6 +86,12 @@ export const etfs: AssetListItem[] = [
     desc: "미국 경기소비재 관련주",
   },
   {
+    id: "xlp",
+    logo: "statestreet.png",
+    name: "XLP",
+    desc: "미국 필수소비재 관련주",
+  },
+  {
     id: "aiq",
     logo: "globalx.png",
     name: "AIQ",

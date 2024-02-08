@@ -34,7 +34,7 @@ export const stocks: AssetListItem[] = [
   {
     id: "nike",
     logo: "nike.svg",
-    name: "나이키",
+    name: "나이키 (Nike)",
     desc: "운동화, 스포츠 용품",
   },
   {
@@ -154,7 +154,7 @@ export const stocks: AssetListItem[] = [
   {
     id: "mastercard",
     logo: "mastercard.svg",
-    name: "마스터카드",
+    name: "마스터카드 (Mastercard)",
     desc: "결제, 카드",
   },
   {
@@ -166,7 +166,7 @@ export const stocks: AssetListItem[] = [
   {
     id: "chevron",
     logo: "chevron.svg",
-    name: "셰브론",
+    name: "셰브론 (Chevron)",
     desc: "석유, 천연가스",
   },
   {
@@ -232,7 +232,7 @@ export const stocks: AssetListItem[] = [
   {
     id: "texas-instruments",
     logo: "texas-instruments.svg",
-    name: "텍사스 인스트루먼트",
+    name: "텍사스 인스트루먼트 (Texas Instruments)",
     desc: "반도체",
   },
   {
@@ -280,7 +280,7 @@ export const stocks: AssetListItem[] = [
   {
     id: "blackrock",
     logo: "blackrock.svg",
-    name: "블랙록",
+    name: "블랙록 (BlackRock)",
     desc: "자산 관리, 투자 상품",
   },
   {
@@ -298,7 +298,7 @@ export const stocks: AssetListItem[] = [
   {
     id: "blackstone",
     logo: "blackstone.svg",
-    name: "블랙스톤",
+    name: "블랙스톤 (Blackstone)",
     desc: "투자 관리",
   },
   {

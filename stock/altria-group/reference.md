@@ -1,2 +1,2 @@
-- marlboro.png : Joe Haupt/Widimedia CCL https://commons.wikimedia.org/wiki/File:Vintage_Marlboro_Cigarettes_Novelty_Transistor_Radio,_Made_in_Hong_Kong_%288670025980%29.jpg
-- icos.png : 한국 icos 공홈
+- marlboro.png : Joe Haupt/Wikimedia CCL https://commons.wikimedia.org/wiki/File:Vintage_Marlboro_Cigarettes_Novelty_Transistor_Radio,_Made_in_Hong_Kong_%288670025980%29.jpg
+- iqos.png : 한국 IQOS 공홈
