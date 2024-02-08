@@ -1,0 +1,4 @@
+- clog.png : official https://www.crocs.co.kr/p/bayaband-clog/205089.html?cgid=men-footwear&cid=066
+- jibbitz.png : official https://www.crocs.co.kr/jibbitz-personalize-2020/jibbitz-personalize-2020.html
+- andrew-rees.png : official https://investors.crocs.com/governance/board-of-directors/person-details/default.aspx?ItemId=addfa9db-77a0-495c-b3bf-06ba804a4613
+- headquarters.jpeg : PR Newswire https://www.prnewswire.com/news-releases/crocs-celebrates-opening-of-new-global-headquarters-301083142.html
