@@ -1,1 +1,2 @@
 - ugg-boots.webp : UGG https://www.ugg.com/women-sale-boots/classic-mini-alpine-lace/195719856410.html
+- teva-original-universal.jpeg : Teva https://www.teva.com/women-sandals/original-universal/1003987.html

@@ -1,0 +1,1 @@
+- booking-com.webp : Booking.com official (playstore)

@@ -1,0 +1,69 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1618 1490" width="1618" height="1490">
+	<title>Booking</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0.93 -86.43L11788.75 -86.43L11788.75 1915.32L0.93 1915.32L0.93 -86.43L0.93 -86.43Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0.94 1915.32L11788.76 1915.32L11788.76 -86.43L0.94 -86.43L0.94 1915.32Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="M0.93 -86.43L11788.75 -86.43L11788.75 1915.32L0.93 1915.32L0.93 -86.43L0.93 -86.43Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="M0.94 -47.03L11786.25 -47.03L11786.25 1912.76L0.94 1912.76L0.94 -47.03Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="M0.94 1915.32L11788.76 1915.32L11788.76 -86.43L0.94 -86.43L0.94 1915.32Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="M0.93 -86.43L11788.75 -86.43L11788.75 1915.32L0.93 1915.32L0.93 -86.43L0.93 -86.43Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="M0.94 1915.32L11788.76 1915.32L11788.76 -86.43L0.94 -86.43L0.94 1915.32Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #499fdd } 
+		.shp1 { fill: #273b7d } 
+	</style>
+	<g id="layer1">
+		<g id="g3358">
+			<g id="Clip-Path: g3360" clip-path="url(#cp1)">
+				<g id="g3360">
+					<g id="Clip-Path: g3366" clip-path="url(#cp2)">
+						<g id="g3366">
+							<path id="path3374" class="shp0" d="M1259.12 1298.83C1259.12 1199.43 1339.22 1118.98 1437.86 1118.98C1536.8 1118.98 1617.24 1199.43 1617.24 1298.83C1617.24 1397.98 1536.8 1478.52 1437.86 1478.52C1339.22 1478.52 1259.12 1397.98 1259.12 1298.83Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g3386">
+			<g id="Clip-Path: g3388" clip-path="url(#cp3)">
+				<g id="g3388">
+					<g id="Clip-Path: g3394" clip-path="url(#cp4)">
+						<g id="g3394">
+							<g id="Clip-Path: g3400" clip-path="url(#cp5)">
+								<g id="g3400">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g3410">
+			<g id="Clip-Path: g3412" clip-path="url(#cp6)">
+				<g id="g3412">
+					<g id="Clip-Path: g3418" clip-path="url(#cp7)">
+						<g id="g3418">
+							<path id="path3424" fill-rule="evenodd" class="shp1" d="M857.77 728.71C967.69 790.63 1033.09 912.4 1033.09 1054.82C1033.09 1319.35 830.74 1490.14 517.24 1490.14L149.27 1490.22C149.15 1490.14 149.02 1490.22 148.65 1490.14L0.94 1490.14L0.94 155.66C1.88 71.45 68.78 3.4 152.39 0.33L189.04 0.33L189.04 0.41L510.87 0.41C792.9 0.41 975.11 152.16 975.11 387.26C975.11 540.93 898.05 629.86 852.08 669.42L812.55 703.24L857.83 728.71M287.47 602.6L512.92 602.6C639.57 602.6 684.64 504.6 684.64 420.61C684.64 310.47 618.8 244.63 508.88 244.63L380.71 244.63C316.66 248.84 287.47 281.68 287.47 350.72L287.47 602.6ZM537.94 1238.1C661.82 1238.01 738.63 1162.33 738.72 1034.56C738.63 910.07 659.86 833.1 537.94 833.1L367.13 833.1C312.28 840.77 287.47 874.08 287.47 938.13L287.47 1237.84L537.94 1238.09L537.94 1238.1Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
