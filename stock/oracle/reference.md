@@ -1,1 +1,2 @@
 - crm.avif : Capterra https://www.capterra.com/p/119990/CRM-On-Demand-Marketing/
+- hcm.png : Technology Evaluation Centers https://www3.technologyevaluation.com/solutions/16267/oracle-hcm-cloud
