@@ -32,6 +32,12 @@ export const etfs: AssetListItem[] = [
     desc: "미국 배당성장주",
   },
   {
+    id: "esgu",
+    logo: "ishares.png",
+    name: "ESGU",
+    desc: "미국 ESG 관련주",
+  },
+  {
     id: "xlv",
     logo: "statestreet.png",
     name: "XLV",
