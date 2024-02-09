@@ -1,2 +1,9 @@
 - marlboro.png : Joe Haupt/Wikimedia CCL https://commons.wikimedia.org/wiki/File:Vintage_Marlboro_Cigarettes_Novelty_Transistor_Radio,_Made_in_Hong_Kong_%288670025980%29.jpg
 - iqos.png : 한국 IQOS 공홈
+- virginia-slims.jpeg : Tjfrank612 / Wikimedia
+- parliament.jpeg : Nikita2706 / Wikimedia
+- copenhagen.png : GamblinMan22 / Wikimedia CCL
+- juul-labs.png : JUUL Labs https://www.cnbc.com/2017/12/19/juul-labs-raising-150-million-in-debt-after-spinning-out-of-pax.html
+- cronos-group.png : James St. John / flickr CCL
+- billy-gifford.png : Altria Group official
+- headquarters.jpeg : Casseb / Wikimedia CCL

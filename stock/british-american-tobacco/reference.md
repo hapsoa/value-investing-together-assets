@@ -1,0 +1,1 @@
+- lucky-strike.png : Alf van Beem / Wikimedia CCL
