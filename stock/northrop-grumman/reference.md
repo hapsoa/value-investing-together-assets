@@ -1,0 +1,1 @@
+- b-2-spirits.jpg : CCL https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit#/media/File:B-2_Spirits_on_Deployment_to_Indo-Asia-Pacific.jpg

@@ -1,1 +1,7 @@
 - f-35.png : Robert Sullivan/flickr CCL https://www.flickr.com/photos/my_public_domain_photos/45846363484
+- c-130.png : Wikimedia CCL
+- f-22.png : Wikimedia CCL
+- thaad.png : Missile Defense Agency https://www.defensedaily.com/lockheed-martin-looks-to-integrate-thaad-into-more-sensors-for-hypersonic-defense-using-gpi-lessons/missile-defense/
+- satellite.png : official https://www.lockheedmartin.com/en-us/products/gps.html
+- jim-taiclet.png : official https://www.lockheedmartin.com/en-us/who-we-are/leadership-governance/james-taiclet.html
+- headquarters.jpeg : Coolcaesar / Wikipedia CCL

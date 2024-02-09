@@ -3,3 +3,5 @@ fios.png : Verizon official
 
 - business-solution.png : Verizon (playstore)
 - 5g-map.png : Verizon (screenshot) https://www.verizon.com/coverage-map/
+- hans-vestberg.png : Verizon official
+- headquarters.png : Eden, Janine and Jim / Wikimedia CCL
