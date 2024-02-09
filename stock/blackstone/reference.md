@@ -1,0 +1,2 @@
+- stephen-schwarzman.png : Web Summit / Wikimedia CCL
+- headquarters.png : Americasroof / Wikimedia CCL
