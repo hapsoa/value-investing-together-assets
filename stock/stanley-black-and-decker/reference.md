@@ -1,0 +1,1 @@
+- dewalt-tool.png : official https://www.stanleyblackanddecker.com/brands/tools/dewalt

@@ -1,1 +1,9 @@
 - automotive-parts.png : ITW Automotive https://www.itwautomotive.com/
+- e-scott-santi.png : ITW official
+- food-equipment.png : ITW official https://www.itwfoodequipment.com/
+- fastener.png : ITW official https://www.itw-fasteners.com/interior/
+- gear-measuring-tester.png : Bullseye Calibration https://bullseyecalibration.com/shop/illinois-tool-works-model-2203-3-gear-measuring-system-tester-pg29/
+- non-slip.png : ITW https://itwppfkorea.com/newpage/newpage.php?f_id=sub2_10
+- welding.png : ITW official
+- electronic-assembly-equipment.png : ITW official
+- headquarters.png : Google Maps
