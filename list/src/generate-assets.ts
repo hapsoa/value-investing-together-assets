@@ -14,10 +14,10 @@ fs.writeFileSync("list/stock.json", JSON.stringify(krStocks));
 fs.writeFileSync("list/bond.json", JSON.stringify(krBonds));
 fs.writeFileSync("list/reit.json", JSON.stringify(krReits));
 
-fs.writeFileSync("list/en-etf.json", JSON.stringify(enETFs));
-fs.writeFileSync("list/en-stock.json", JSON.stringify(enStocks));
-fs.writeFileSync("list/en-bond.json", JSON.stringify(enBonds));
-fs.writeFileSync("list/en-reit.json", JSON.stringify(enReits));
+fs.writeFileSync("list/etf-en.json", JSON.stringify(enETFs));
+fs.writeFileSync("list/stock-en.json", JSON.stringify(enStocks));
+fs.writeFileSync("list/bond-en.json", JSON.stringify(enBonds));
+fs.writeFileSync("list/reit-en.json", JSON.stringify(enReits));
 
 // const assets: AssetListItem[] = [
 //   ...etfs.map((etf) => ({ ...etf, type: AssetType.ETF })),
