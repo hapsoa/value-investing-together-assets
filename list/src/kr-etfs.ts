@@ -1,6 +1,6 @@
 import { AssetListItem, AssetType } from "./model";
 
-export const etfs: AssetListItem[] = [
+export const krETFs: AssetListItem[] = [
   {
     id: "voo",
     logo: "vanguard.png",

@@ -1,6 +1,6 @@
 import { AssetListItem } from "./model";
 
-export const bonds: AssetListItem[] = [
+export const krBonds: AssetListItem[] = [
   {
     id: "tlt",
     name: "TLT",

@@ -1,6 +1,6 @@
 import { AssetListItem } from "./model";
 
-export const reits: AssetListItem[] = [
+export const krReits: AssetListItem[] = [
   {
     id: "realty-income",
     name: "리얼티인컴 (Realty Income)",

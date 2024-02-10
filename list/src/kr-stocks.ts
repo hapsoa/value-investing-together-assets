@@ -1,6 +1,6 @@
 import { AssetListItem, AssetType } from "./model";
 
-export const stocks: AssetListItem[] = [
+export const krStocks: AssetListItem[] = [
   {
     id: "alphabet-class-a",
     logo: "alphabet-class-a.svg",
@@ -317,7 +317,7 @@ export const stocks: AssetListItem[] = [
     id: "eog-resources",
     logo: "eog-resources.svg",
     name: "EOG Resources",
-    desc: "셰익 석유 가스",
+    desc: "셰일 석유 가스",
   },
 
   {
