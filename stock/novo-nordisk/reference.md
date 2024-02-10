@@ -1,0 +1,1 @@
+- ozempic.jpg : Pharmaphorum https://pharmaphorum.com/news/novo-nordisks-semaglutide-aces-another-outcomes-trial
