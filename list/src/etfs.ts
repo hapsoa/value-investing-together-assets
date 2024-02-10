@@ -38,6 +38,12 @@ export const etfs: AssetListItem[] = [
     desc: "미국 ESG 관련주",
   },
   {
+    id: "vsgx",
+    logo: "vanguard.png",
+    name: "VSGX",
+    desc: "전세계 ESG 관련주",
+  },
+  {
     id: "xlv",
     logo: "statestreet.png",
     name: "XLV",
