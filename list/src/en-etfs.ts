@@ -35,6 +35,6 @@ export const enETFs: AssetListItem[] = [
     id: "iwf",
     logo: "ishares.png",
     name: "IWF",
-    desc: "Russell 1000 성장주",
+    desc: "Russell 1000 Growth",
   },
 ];
