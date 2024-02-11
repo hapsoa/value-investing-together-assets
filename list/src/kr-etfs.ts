@@ -110,6 +110,12 @@ export const krETFs: AssetListItem[] = [
     desc: "인공지능 관련주",
   },
   {
+    id: "iwf",
+    logo: "ishares.png",
+    name: "IWF",
+    desc: "Russell 1000",
+  },
+  {
     id: "sol-snp-500esg",
     logo: "sinhan.png",
     name: "SOL 미국S&P500ESG",

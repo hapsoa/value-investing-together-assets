@@ -31,4 +31,10 @@ export const enETFs: AssetListItem[] = [
     name: "SCHD",
     desc: "U.S. Dividend Growth",
   },
+  {
+    id: "iwf",
+    logo: "ishares.png",
+    name: "IWF",
+    desc: "Russell 1000",
+  },
 ];
