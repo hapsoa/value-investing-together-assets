@@ -113,7 +113,7 @@ export const krETFs: AssetListItem[] = [
     id: "iwf",
     logo: "ishares.png",
     name: "IWF",
-    desc: "Russell 1000",
+    desc: "Russell 1000 Growth",
   },
   {
     id: "sol-snp-500esg",
