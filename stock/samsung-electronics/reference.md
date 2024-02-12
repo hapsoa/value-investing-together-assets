@@ -1,2 +1,11 @@
 - galaxy.png : 삼성전자 official
 - dram-memory.png : 삼성전자
+- smart-home.png : 삼성전자 official https://www.samsung.com/sec/business/b-iot-solutions/smart-home-solution-iot/
+- galaxy-tab.avif : official
+- galaxy-watch.png : official
+- semiconductor.webp : official
+- refrigerator.png : official
+- qled-tv.png : official
+- jaeyong-lee.jpg : RoyalFamily2 / Wikimedia CCL https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%AC%EC%9A%A9#/media/%ED%8C%8C%EC%9D%BC:%EC%9D%B4%EC%9E%AC%EC%9A%A9%EC%82%BC%EC%84%B1%ED%9A%8C%EC%9E%A5.jpg
+
+- headquarters.png : Oskar Alexanderson / Wikimedia CCL
