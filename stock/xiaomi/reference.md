@@ -1,0 +1,1 @@
+- smartphone.png : official mi.com

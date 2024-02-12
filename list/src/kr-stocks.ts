@@ -339,6 +339,12 @@ export const krStocks: AssetListItem[] = [
     desc: "IT, 검색",
   },
   {
+    id: "samsung-electronics",
+    logo: "logo.svg",
+    name: "삼성전자",
+    desc: "반도체",
+  },
+  {
     id: "cj-logistics",
     logo: "logo.svg",
     name: "CJ대한통운",
