@@ -94,7 +94,7 @@ export const enStocks: AssetListItem[] = [
   {
     id: "novo-nordisk",
     logo: "logo.svg",
-    name: "Novo NOrdisk",
+    name: "Novo Nordisk",
     desc: "pharmaceuticals, diabetes, diet",
   },
   {
