@@ -1,1 +1,2 @@
 - tagrisso.jpeg : Evaluate Pharma https://www.evaluate.com/vantage/articles/events/conferences/asco-2020-tagrisso-shows-what-early-targeting-can-do
+- forxiga.jpeg : 당뇨병 치료제 Korea Biomedical Review https://www.koreabiomed.com/news/articleView.html?idxno=6284
