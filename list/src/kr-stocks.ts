@@ -92,6 +92,12 @@ export const krStocks: AssetListItem[] = [
     desc: "제약",
   },
   {
+    id: "novo-nordisk",
+    logo: "logo.svg",
+    name: "노보 노디스크",
+    desc: "제약, 당뇨, 다이어트",
+  },
+  {
     id: "amazon",
     logo: "amazon.svg",
     name: "아마존 (Amazon.com)",

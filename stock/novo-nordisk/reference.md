@@ -1,1 +1,8 @@
 - ozempic.jpg : Pharmaphorum https://pharmaphorum.com/news/novo-nordisks-semaglutide-aces-another-outcomes-trial
+- wegovy.png : Novo Nordisk https://www.bloomberg.com/news/articles/2021-06-04/novo-nordisk-s-wegovy-weight-loss-injection-gets-fda-approval
+- care-program.png : official https://www.nncare.ca/en/get-started.html
+- xultophy.png : Xultophy https://www.xultophy10036pro.com/coverage-and-support/for-pharmacists.html
+- fiasp.png : novoMEDLINK https://www.novomedlink.com/diabetes/products/treatments/fiasp.html
+- saxneda.jpeg : Korea Biomedical Review https://www.koreabiomed.com/news/articleView.html?idxno=7768
+- lars-fruergaard-joergensen.jpeg : Novo Nordisk official
+- headquarters.jpg : News Øresund - Johan Wessman CCL https://www.flickr.com/photos/newsoresund/29190030262

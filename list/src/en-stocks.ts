@@ -89,7 +89,13 @@ export const enStocks: AssetListItem[] = [
     id: "eli-lilly",
     logo: "eli-lilly.svg",
     name: "Eli Lilly",
-    desc: "drug",
+    desc: "pharmaceuticals",
+  },
+  {
+    id: "novo-nordisk",
+    logo: "logo.svg",
+    name: "Novo NOrdisk",
+    desc: "pharmaceuticals, diabetes, diet",
   },
   {
     id: "amazon",
