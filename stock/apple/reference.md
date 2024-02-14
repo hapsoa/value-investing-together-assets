@@ -4,3 +4,4 @@
 - apple-tv.png : Apple https://www.apple.com/kr/newsroom/2019/03/apple-unveils-apple-tv-plus-the-new-home-for-the-worlds-most-creative-storytellers/
 - keyboard.jpeg : Apple official
 - vision-pro.jpeg : Apple official
+- final-cut-pro.png : Apple official
