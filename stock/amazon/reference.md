@@ -4,3 +4,7 @@
 - lina-khan.webp : FTC https://www.ftc.gov/about-ftc/commissioners-staff/lina-m-khan
 - prime-video.png: Prime Video official
 - amazon-logistics.png : CCL
+- echo.jpg : Amazon.com
+- kindle.jpg : Amazon.com
+- amazon-go.jpg : SounderBruce / Wikimedia
+- day1-building.jpg : Adamajreynolds / Wikimedia (Seattle Office Building)
