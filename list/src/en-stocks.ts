@@ -320,6 +320,12 @@ export const enStocks: AssetListItem[] = [
     desc: "Shale oil and gas",
   },
   {
+    id: "arm-holdings",
+    logo: "logo.svg",
+    name: "Arm Holdings",
+    desc: "Semiconductor",
+  },
+  {
     id: "toyota-motor",
     logo: "logo.svg",
     name: "Toyota Motor",

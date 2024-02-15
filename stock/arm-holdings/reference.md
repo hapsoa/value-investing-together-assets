@@ -1,1 +1,10 @@
 - arm-architecture.png : 사진: Cburnett / Wikipedia https://en.wikipedia.org/wiki/ARM_architecture_family#/media/File:ARMSoCBlockDiagram.svg
+- arm-cortex-m3.avif : arm official
+- mali.png : Open Grid Scheduler / Grid Engine --- CCL Wikimedia
+- neoverse.avif : arm official
+- iot.png : jeferrb / pixabay.com CCL Public Domain
+- arm-securecore.avif : arm official
+- machine-learning-processor.png : HotHardware https://hothardware.com/reviews/arm-details-project-trillium-machine-learning-processor
+- automotive-solutions.webp : arm official
+- rene-hass.avif : official
+- headquarters.jpg : JonThackray / Wikipedia

@@ -325,6 +325,12 @@ export const krStocks: AssetListItem[] = [
     name: "EOG Resources",
     desc: "셰일 석유 가스",
   },
+  {
+    id: "arm-holdings",
+    logo: "logo.svg",
+    name: "Arm Holdings",
+    desc: "반도체",
+  },
 
   {
     id: "yuhan-yanghang",
