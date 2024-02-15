@@ -319,4 +319,10 @@ export const enStocks: AssetListItem[] = [
     name: "EOG Resources",
     desc: "Shale oil and gas",
   },
+  {
+    id: "toyota-motor",
+    logo: "logo.svg",
+    name: "Toyota Motor",
+    desc: "Automobile",
+  },
 ];

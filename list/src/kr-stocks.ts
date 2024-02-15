@@ -356,4 +356,10 @@ export const krStocks: AssetListItem[] = [
     name: "CJ대한통운",
     desc: "물류, 택배",
   },
+  {
+    id: "toyota-motor",
+    logo: "logo.svg",
+    name: "도요타자동차 (Toyota Motor)",
+    desc: "자동차",
+  },
 ];
