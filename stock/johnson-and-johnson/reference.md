@@ -7,3 +7,4 @@
 - listerine.png : Listerine https://www.listerine.com/mouthwash/listerine-ultraclean/listerine-ultraclean-cool-mint-antiseptic-mouthwash
 - joaquin-duato.png : Johnson and Johnson https://www.jnj.com/joaquin-duato
 - invokana.avif : 얀센 당뇨병 치료제 Fierce Pharma
+- headquarters.png : user:ekem / Wikimedia CCL
