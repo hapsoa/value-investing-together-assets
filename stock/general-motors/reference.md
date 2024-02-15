@@ -1,0 +1,1 @@
+- chevrolet-silverado.avif : Chevrolet official
