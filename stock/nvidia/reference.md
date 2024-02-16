@@ -1,3 +1,12 @@
 - gpu.png : GeForce RTX 40 시리즈 nvidia.com 공식홈페이지 (https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/)
 - cloud.png : NVIDIA official
 - jensen-huang.png : NVIDIA official https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-to-keynote-worlds-premier-ai-conference
+
+- geforce.png : official
+- quadro.png : official
+- tesla.jpeg : official
+- dgx-systems.jpeg : official
+- jetson-platform.png : official
+- omniverse.png : official
+- ai-platform.png : official
+- headquarters.jpg : Coolcaesar / Wikimedia CCL
