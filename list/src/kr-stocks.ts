@@ -331,6 +331,12 @@ export const krStocks: AssetListItem[] = [
     name: "Arm Holdings",
     desc: "반도체",
   },
+  {
+    id: "qualcomm",
+    logo: "logo.svg",
+    name: "퀄컴 (Qaulcomm)",
+    desc: "반도체",
+  },
 
   {
     id: "yuhan-yanghang",

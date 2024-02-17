@@ -326,6 +326,12 @@ export const enStocks: AssetListItem[] = [
     desc: "Semiconductor",
   },
   {
+    id: "qualcomm",
+    logo: "logo.svg",
+    name: "Qaulcomm",
+    desc: "Semiconductor",
+  },
+  {
     id: "toyota-motor",
     logo: "logo.svg",
     name: "Toyota Motor",
