@@ -6,3 +6,5 @@
 - semi-truck.png : 테슬라 https://www.tesla.com/semi
 - cybertruck.avif : https://www.tesla.com/ko_kr/cybertruck
 - solar-panel.png : 테슬라 https://www.solarreviews.com/blog/are-tesla-solar-panels-the-best-option
+- solar-roof.png : Tesla Official (Video)
+- powerwall.png : Official
