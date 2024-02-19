@@ -7,3 +7,5 @@
 - bnsf-railway.jpeg : Ron Reiring / Wikipedia CCL https://en.wikipedia.org/wiki/BNSF_Railway#/media/File:BNSF_7520_GE_ES44DC_in_Mojave_Desert.jpg
 - berkshire-hathaway-energy.png : Berkshire Hathaway Energy https://www.brkenergy.com/energy
 - annual-meeting.png : CNBC https://www.youtube.com/watch?v=5QBkn42PSxk
+- duracell.jpg : Ashley Pomeroy / Wkikimedia CCL
+- diary-queen-blizzard.png : Diary Queen official
