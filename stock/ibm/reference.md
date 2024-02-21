@@ -1,1 +1,9 @@
 - ibm-cloud: official https://www.ibm.com/kr-ko/consulting/applications
+- watson.png : Clockready / Wikimedia CCL
+- blockchain.png : Tumisu / pixabay.com CCL
+- quantum-computing.png : official
+- security.png : CC0 https://www.rawpixel.com/image/5909943/image-background-public-domain-technology
+- redhat.png : official
+- consulting.svg : official
+- arvind-krishna.png : official
+- headquarters.jpg : Treesmittenex / Wikimedia CCL
