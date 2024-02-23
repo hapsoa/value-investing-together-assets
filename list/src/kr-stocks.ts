@@ -337,6 +337,12 @@ export const krStocks: AssetListItem[] = [
     name: "퀄컴 (Qaulcomm)",
     desc: "반도체",
   },
+  {
+    id: "ibm",
+    logo: "logo.svg",
+    name: "IBM",
+    desc: "IT, 컴퓨터",
+  },
 
   {
     id: "yuhan-yanghang",

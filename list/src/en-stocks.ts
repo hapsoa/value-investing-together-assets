@@ -332,6 +332,12 @@ export const enStocks: AssetListItem[] = [
     desc: "Semiconductor",
   },
   {
+    id: "ibm",
+    logo: "logo.svg",
+    name: "IBM",
+    desc: "IT, Cloud",
+  },
+  {
     id: "toyota-motor",
     logo: "logo.svg",
     name: "Toyota Motor",
