@@ -343,6 +343,12 @@ export const krStocks: AssetListItem[] = [
     name: "IBM",
     desc: "IT, 컴퓨터",
   },
+  {
+    id: "oracle",
+    logo: "oracle.svg",
+    name: "오라클 (Oracle)",
+    desc: "IT, 데이터베이스",
+  },
 
   {
     id: "yuhan-yanghang",

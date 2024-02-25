@@ -338,6 +338,12 @@ export const enStocks: AssetListItem[] = [
     desc: "IT, Cloud",
   },
   {
+    id: "oracle",
+    logo: "oracle.svg",
+    name: "Oracle",
+    desc: "Database, Cloud",
+  },
+  {
     id: "toyota-motor",
     logo: "logo.svg",
     name: "Toyota Motor",
