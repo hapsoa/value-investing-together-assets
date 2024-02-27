@@ -1,0 +1,1 @@
+- headquarters.jpeg : Thomas LOMBARD, designed by HASSELL (architects) CCL
