@@ -4,3 +4,7 @@
 - engine-oil.jpeg : Mobil https://www.mobil.co.kr/ko-kr/mobil-brands/products/mobil-1-esp-lv-0w-30
 - darren-woods.png : ExxonMobil official https://corporate.exxonmobil.com/corporate-governance/board-of-directors/darren-woods
 - headquarters.png : ExxonMobil official https://corporate.exxonmobil.com/locations/united-states/houston-campus
+- lng-industry.jpeg : ExxonMobil official
+- gasoline.jpeg : ExxonMobil official
+- asphalt-stones.jpeg : ExxonMobil official
+- wind-energy.jpeg : ExxonMobil official
