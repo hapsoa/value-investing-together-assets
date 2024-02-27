@@ -1,0 +1,1 @@
+- headquarters.jpg : Reading Tom / CCL (Shell Centre headquarters in London)

@@ -1,0 +1,1 @@
+- headquarters.jpeg : Tangopaso / Wikimedia Public Domain (Tour Total in Courbevoie, France, the headquarters of TotalEnergies.)

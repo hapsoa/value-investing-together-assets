@@ -1,0 +1,1 @@
+- headquarters.jpeg : WhisperToMe / Wikimedia Public Domain (Headquarters at 1 St James's Square in Westminster, London)
