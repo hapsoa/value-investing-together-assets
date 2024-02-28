@@ -5,3 +5,5 @@
 - contactless.png : 마스터카드 공홈
 - michael-miebach.png : mastercard official https://www.mastercard.com/news/press/executive-bios/michael-miebach/
 - headquarters.png : Commercial Observer https://commercialobserver.com/2021/10/150-fifth-avenue-debuts-as-mastercards-new-tech-hq/
+- masterpass.jpeg : Official
+- consulting.png : Official
